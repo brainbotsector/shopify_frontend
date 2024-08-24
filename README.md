@@ -43,3 +43,11 @@ npm install
 Run the application:
 
 npm start
+
+## Technologies Used
+
+*React: For building the user interface.*
+
+*Chart.js: For rendering dynamic charts and graphs.*
+
+*Axios: For making API requests.*
